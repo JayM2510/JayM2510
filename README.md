@@ -5,7 +5,9 @@
 Creative, Hard-Working Computer Science student anticipating graduation in April 2024. Seeking an internship to apply and grow my experience with App Development and building Flutter Apps for non-technical users. Adept at working effectively in fast-paced, deadline-driven settings that demand strong organizational and analytical skills.
 
 ## Skills 
-• 👨‍💻 C/C++
+• 👨‍💻 C++
+
+• 🐍 Python
 
 • 🗃️ SQL
 
