@@ -18,3 +18,5 @@ Creative, Hard-Working Computer Science student anticipating graduation in April
 • 🔥 Firebase
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayM2510&show_icons=true&theme=graywhite)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayM2510&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
