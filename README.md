@@ -2,7 +2,7 @@
 
 # Jayaditya Mishra
 
-Creative, Hard-Working Computer Science student anticipating graduation in April 2024. Seeking an internship to apply and grow my experience with App Development and building Flutter Apps for non-technical users. Adept at working effectively in fast-paced, deadline-driven settings that demand strong organizational and analytical skills.
+Creative and hard-working Computer Science student currently pursuing M.Tech in CSE at IIIT Delhi (anticipated graduation: 2027). Experienced in app development with a strong focus on building intuitive Flutter applications for non-technical users. Adept at working effectively in fast-paced, deadline-driven environments requiring strong analytical and organizational skills.
 
 # Skills :
 
@@ -24,7 +24,5 @@ Creative, Hard-Working Computer Science student anticipating graduation in April
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 # Stats :
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayM2510&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayM2510&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
